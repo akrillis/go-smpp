@@ -10,8 +10,8 @@ const (
 )
 
 type SmsInternalFormat struct {
-	HeaderCommandLength  uint32
-	HeaderSequenceNumber uint32
+	//HeaderCommandLength  uint32
+	//HeaderSequenceNumber uint32
 	Src                  string
 	Dst                  string
 	DstList              []string
@@ -35,7 +35,7 @@ type SmsInternalFormat struct {
 	NumberDests          uint8
 	DataCoding           uint64
 	WhereIsText          SmsInternalWhereIsText
-	SMLength             uint8
+	//SMLength             uint8
 }
 
 type DeliverSMRespInternalFormat struct {
