@@ -1,0 +1,31 @@
+# github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d
+github.com/cpuguy83/go-md2man/v2/md2man
+# github.com/fiorix/go-smpp v0.0.0-20210403173735-2894b96e70ba
+## explicit
+github.com/fiorix/go-smpp/smpp
+github.com/fiorix/go-smpp/smpp/encoding
+github.com/fiorix/go-smpp/smpp/pdu
+github.com/fiorix/go-smpp/smpp/pdu/pdufield
+github.com/fiorix/go-smpp/smpp/pdu/pdutext
+github.com/fiorix/go-smpp/smpp/pdu/pdutlv
+github.com/fiorix/go-smpp/smpp/smpptest
+# github.com/russross/blackfriday/v2 v2.0.1
+github.com/russross/blackfriday/v2
+# github.com/shurcooL/sanitized_anchor_name v1.0.0
+github.com/shurcooL/sanitized_anchor_name
+# github.com/urfave/cli v1.22.5
+## explicit
+github.com/urfave/cli
+# golang.org/x/text v0.3.6
+## explicit
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/runes
+golang.org/x/text/transform
+# golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
+## explicit
+golang.org/x/time/rate
